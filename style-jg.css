@@ -1,5 +1,5 @@
 * {	margin: 0;	padding: 0;}
-a {	text-decoration: none;	color: #000000;}
+/*a {	text-decoration: none;	color: #000000;}*/
 a:hover {	text-decoration: none;}
 body {	font-size: 12pt;	line-height: 1.3em;	font-family: Times-Roman;	background: #000000;	color: #000000;}
 h1 {margin-bottom: 1em;	font-family: Times-Roman;	font-size: 3em; color: #000000;}
