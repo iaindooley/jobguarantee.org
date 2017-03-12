@@ -13,7 +13,8 @@ img.top {	margin: 8px 0 20px 0;}p {	margin-bottom: 1.25em;}
 #copyright a {	color: #777777;}
 #main {	position: relative;	padding: 10px 28px 0px 28px;	width: 1124px;}
 #nav ul {	list-style: disc;}
-#nav ul li {	display: inline;	padding: 12px 12px 12px 12px;}
+#nav ul li {	display: inline;	padding: 12px 12px 12px 12px; }
+li { margin-left:40px; }
 #outer {position: absolute;	margin: 30px 30px 30px 30px;	background: #ffffff;	}
 
 
